@@ -87,3 +87,14 @@ body{background: #dedfc399;width:360px;margin: 2px auto;}
   font-size: 13px;
   font-weight: bold;
 }
+
+#container {
+  box-shadow: 4px 0px 18px -1px #0000ff;
+  width: 345px;
+  height: 555px;
+  overflow: auto;
+}
+#container_two{
+    width: 345px;
+    height: 555px;
+    position: relative;
