@@ -95,6 +95,7 @@ body{background: #dedfc399;width:360px;margin: 2px auto;}
   overflow: auto;
 }
 #container_two{
+    text-align: center
     width: 345px;
     height: 555px;
     position: relative;
