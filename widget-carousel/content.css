@@ -79,3 +79,11 @@ body{background: #dedfc399;width:360px;margin: 2px auto;}
   -o-background-size: 100% 100%;
   background-size: 100% 100%;
 }
+
+/*  = CSS
+---------------------------*/
+.txt2{
+  padding: 2% 0;
+  font-size: 13px;
+  font-weight: bold;
+}
