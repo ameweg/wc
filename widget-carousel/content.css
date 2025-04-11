@@ -90,12 +90,10 @@ body{background: #dedfc399;width:360px;margin: 2px auto;}
 
 #container {
   box-shadow: 0px 0px 7px -1px #0000ff;
-  width: 345px;
   height: 555px;
   overflow: auto;
 }
 #container_two{
     text-align: center
-    width: 345px;
     height: 555px;
     position: relative;
