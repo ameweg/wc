@@ -39,7 +39,7 @@ body{background: #dedfc399;width:360px;margin: 2px auto;}
 
 .tab {
   display: inline-block;
-  line-height: 1.5em;
+  line-height: 0.8em;
   z-index: 1000;
   padding: 0.2em 0.2em;
   font-size: 1em;
